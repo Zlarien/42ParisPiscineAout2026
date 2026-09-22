@@ -1,0 +1,14 @@
+# Binaires compilés
+a.out
+*.o
+*.out
+
+# Éditeurs / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Fichiers de test
+test/
+*.log
